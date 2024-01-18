@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jesik/OneDrive/Desktop/Thyroid_Disease_Detection_Internship-main/src/mlruns/0/1e300f8e9aae454791eb48ad3f0cc8d7/artifacts
+end_time: 1705589827576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e300f8e9aae454791eb48ad3f0cc8d7
+run_name: silent-squirrel-240
+run_uuid: 1e300f8e9aae454791eb48ad3f0cc8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705589808150
+status: 3
+tags: []
+user_id: jesi

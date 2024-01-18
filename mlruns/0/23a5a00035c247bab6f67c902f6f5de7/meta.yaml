@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jesik/OneDrive/Desktop/Thyroid_Disease_Detection_Internship-main/src/mlruns/0/23a5a00035c247bab6f67c902f6f5de7/artifacts
+end_time: 1705589131058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23a5a00035c247bab6f67c902f6f5de7
+run_name: burly-seal-205
+run_uuid: 23a5a00035c247bab6f67c902f6f5de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705589108190
+status: 3
+tags: []
+user_id: jesi

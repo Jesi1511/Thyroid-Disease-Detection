@@ -1,0 +1,51 @@
+2024-01-18 20:12:05,036 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:12:23,488 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:12:23,720 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:12:23,751 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:12:24,490 : INFO : step5_model_training.py : Trained model saved as a joblib file.
+2024-01-18 20:12:42,352 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:12:42,352 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:12:57,437 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:12:57,437 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:12:57,642 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:12:57,642 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:12:57,676 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:12:57,676 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:12:58,280 : INFO : step5_model_training.py : Trained model saved as a joblib file.
+2024-01-18 20:12:58,280 : INFO : step5_model_training.py : Trained model saved as a joblib file.
+2024-01-18 20:15:08,236 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:15:08,236 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:15:08,236 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:15:16,157 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:15:16,157 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:15:16,157 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:15:16,351 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:15:16,351 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:15:16,351 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:15:31,056 : INFO : step5_model_training.py : Trained model saved with MLflow.
+2024-01-18 20:15:31,056 : INFO : step5_model_training.py : Trained model saved with MLflow.
+2024-01-18 20:15:31,056 : INFO : step5_model_training.py : Trained model saved with MLflow.
+2024-01-18 20:23:21,347 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:23:33,799 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:23:33,993 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:23:42,302 : INFO : step5_model_training.py : Trained model saved with MLflow.
+2024-01-18 20:26:48,214 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:26:48,214 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:26:48,220 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:26:48,220 : INFO : step5_model_training.py : Model initialized
+2024-01-18 20:27:07,468 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:27:07,468 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:27:07,503 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:27:07,503 : INFO : step5_model_training.py : Model trained on the train data.
+2024-01-18 20:27:07,573 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:27:07,573 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:27:07,574 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:27:07,574 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-01-18 20:27:07,610 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:27:07,610 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:27:07,684 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:27:07,684 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-01-18 20:27:07,944 : INFO : step5_model_training.py : Trained model saved as a joblib file.
+2024-01-18 20:27:07,944 : INFO : step5_model_training.py : Trained model saved as a joblib file.
+2024-01-18 20:27:08,068 : INFO : step5_model_training.py : Trained model saved as a joblib file.
+2024-01-18 20:27:08,068 : INFO : step5_model_training.py : Trained model saved as a joblib file.
