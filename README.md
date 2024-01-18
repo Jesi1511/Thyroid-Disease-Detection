@@ -16,7 +16,7 @@ Get the data from https://archive-beta.ics.uci.edu/dataset/102/thyroid+disease
 Quinlan,Ross. (1987). Thyroid Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C5D010.
 
 # Project Flow
-![image](https://github.com/Jesi1511/Thyroid-Disease-Detection/assets/144013413/6865d62a-ee25-4601-a371-2b86f7883449)
+![image](https://github.com/Jesi1511/Thyroid-Disease-Detection/assets/144013413/c2a83305-e3e4-4e80-89b7-cb6a23a4ccd3)
 
 
 
