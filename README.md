@@ -98,6 +98,7 @@ Make predictions using trained model
 ```
 
 🔗 Links
-https://www.linkedin.com/in/jesima-parvin/
+linkedin
+![image](https://www.linkedin.com/in/jesima-parvin/)
 
 
