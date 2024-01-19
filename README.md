@@ -9,7 +9,7 @@ that releases thyroid hormones in regulating the rate of body's metabolism.
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid 
 disease or not.
 
-#Dashboard.py 
+Deployed app link
 http://localhost:8501/
 # Data used
 
@@ -97,6 +97,7 @@ Make predictions using trained model
   streamlit run src/Dashboard.py
 ```
 
-
+🔗 Links
+https://www.linkedin.com/in/jesima-parvin/
 
 
