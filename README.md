@@ -9,7 +9,8 @@ that releases thyroid hormones in regulating the rate of body's metabolism.
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid 
 disease or not.
 
-
+#Dashboard.py 
+http://localhost:8501/
 # Data used
 
 Get the data from https://archive-beta.ics.uci.edu/dataset/102/thyroid+disease  
@@ -17,8 +18,6 @@ Quinlan,Ross. (1987). Thyroid Disease. UCI Machine Learning Repository. https://
 
 # Project Flow
 ![image](https://github.com/Jesi1511/Thyroid-Disease-Detection/assets/144013413/c2a83305-e3e4-4e80-89b7-cb6a23a4ccd3)
-
-
 
 
 # Programming Languages Used
